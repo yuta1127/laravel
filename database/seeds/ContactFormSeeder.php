@@ -1,7 +1,7 @@
 <?php
 
-use App\Models\ContactForm;
 use Illuminate\Database\Seeder;
+use App\Models\ContactForm;
 
 class ContactFormSeeder extends Seeder
 {
@@ -12,7 +12,7 @@ class ContactFormSeeder extends Seeder
      */
     public function run()
     {
+        factory(ContactForm::class,200)->create();//200個のダミーデータ作成
         //
-        factory(ContactForm::class,200)->create();//200のダミーデータを生成
     }
 }
