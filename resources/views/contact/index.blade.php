@@ -45,7 +45,6 @@
                         @endforeach
                     </tbody>
                     </table>
-action="/contact/index
                     {{ $contacts->links() }}
                                     </div>
                                 </div>
