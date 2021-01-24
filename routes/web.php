@@ -34,6 +34,8 @@ Route::group(['prefix' => 'contact','middleware' =>'auth'],function(){
 //REST
 //Route::resource('contact','ContactFormController');
 
+Route::get('guest', 'Auth\LoginController@guestLogin')->name('login.guest');
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
