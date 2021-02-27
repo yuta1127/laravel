@@ -14,14 +14,14 @@
 ## 使用技術
 
 * __フロントエンド__
- * Vue.js 2.6.11
- * jQuery 3.4.1
- * HTML / CSS / Bootstrap
+  * Vue.js 2.6.11
+  * jQuery 3.4.1
+  * HTML / CSS / Bootstrap
 
   
 * __バックエンド__
- * PHP 7.3.11
- * Laravel 6.20.16
+  * PHP 7.3.11
+  * Laravel 6.20.16
 
   
 * __インフラ__
