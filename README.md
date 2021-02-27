@@ -24,10 +24,6 @@
   * Laravel 6.20.16
 
   
-* __インフラ__
-
-
-  
 * その他使用ツール
   * Visual Studio Code
   * draw.io
