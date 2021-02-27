@@ -24,9 +24,8 @@
   * Laravel 6.20.16
 
   
-* その他使用ツール
+* 使用エディタ
   * Visual Studio Code
-  * draw.io
 
 
 ## 機能一覧
